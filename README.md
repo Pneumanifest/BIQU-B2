@@ -12,5 +12,5 @@ This is currently the firmware I use for the BIQU B1 with the B2 (2 in 1 hotend)
      * Double check and Set up yor own Probe offsets
      * Z-endstop switch should be diabled/removed to prevent damage
 
-## update I made other branches for the SKR1.4 version with and without BLTouch. 
-[View all branches](https://github.com/Apexpredation/BIQU-B2/branches)
+## Update: See the other branches for the SKR1.4 version with and without BLTouch. 
+## [View all branches](https://github.com/Pneumanifest/BIQU-B2/branches)
